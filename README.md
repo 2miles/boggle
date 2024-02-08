@@ -17,3 +17,17 @@ PLAY FUNCTION
 boggle dice array.
 
 
+
+## TODO
+
+- [x] Get a list of all english words.
+- [ ] Make boggle word list. 
+  - [ ] Clean the english list. 
+    - [ ] Remove all words starting with capital letter.
+    - [ ] Remove all words containing non [a-z]
+    - [ ] Remove all words with length not in range 3-16
+    - [ ] Rename new list `boggle_master_list.txt`
+    - [ ] OPTIONAL Reduce the list even further.
+- [ ] 
+
+- [ ] Write function that prints and returns a new scrambled boggle board.
